@@ -1,9 +1,0 @@
-[
-  {
-    "name": "Legends Of Speed",
-    "gameId": "3101667897",
-    "author": "321Remag",
-    "description": "Ein mächtiger Auto-Farm Bot für Legends Of Speed.",
-    "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/321RemagSRC/RbxScripts/refs/heads/main/Scripts/Legends%20Of%20Speed/Legends%20Of%20Speed.lua\"))()"
-  }
-]
